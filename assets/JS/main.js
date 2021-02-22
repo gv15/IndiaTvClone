@@ -6,7 +6,7 @@ window.addEventListener('load', ()=>{
 function giveDateString(){
     let months = {
         0:"JANUARY",
-        1:"FEBRURARY",
+        1:"FEBRUARY",
         2:"MARCH",
         3:"APRIL",
         4:"MAY",

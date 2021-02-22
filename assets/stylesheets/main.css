@@ -145,12 +145,32 @@ ul {
     color:white;
     background-color:#DE1F26;
 }
+/* Main Navigation */
+.container-{
 
-#main-navigation {
-    height:8%;
-    margin-bottom: 1px solid red;
 }
 
+#main-navigation{
+    
+    border-bottom: 1px solid lightgray;
+}
+#main-navigation a li{
+    display:inline-block;
+    margin:8px;
+}
+#main-navigation a{
+    color:black;
+    font-weight:bold;
+    text-transform:uppercase;
+    
+}
+.container-1200px{
+    width:1200px;
+    margin:0 auto;
+}
+#main-navigation a:hover{
+    text-decoration: underline double #E6575C;
+}
 #banner {
 
 }
